@@ -1,2 +1,2 @@
 # CalculadoraJS
-Calculadora Simples Javascript
+Calculadora Simples em Javascript
