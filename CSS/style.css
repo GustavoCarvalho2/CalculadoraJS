@@ -1,0 +1,8 @@
+.main{
+    width: 740px;
+    margin: 0 auto;
+}
+input,select,button{
+    padding: 5px;
+    border: 2px solid #ddd;
+}
